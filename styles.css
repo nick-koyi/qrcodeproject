@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'Outfit';
+  src: url('assets/fonts/Outfit-Regular.woff') format('woff'),
+    url('assets/fonts/Outfit-Bold.woff') format('woff');
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Outfit', 'san-serif';
+  background: hsl(212, 45%, 89%);
+}
+
+main {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  width: 300px;
+  padding: 15px;
+  background: hsl(0, 0%, 100%);
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  border-radius: 10px;
+}
+
+.container img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.main-text {
+  text-align: center;
+}
+
+.main-text h1 {
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: hsl(218, 44%, 22%);
+}
+
+.main-text p {
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  font-size: 15px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
