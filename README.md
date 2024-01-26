@@ -4,10 +4,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
+- [Overview](#overview)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
+
+## Overview
+
+### Links
+
+- Live Site URL: [Add live site URL here](https://qrcodeproject-cyan.vercel.app/)
 
 ## My process
 
@@ -17,13 +24,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 
-### What I learned
-
-The major thing I learned doing this project was to center a div to the middle of a page.
-
 ## Author
 
-- Website - [Nicholas Koyi](https://inspiring-spence-83255f.netlify.app/)
 - Frontend Mentor - [@nick-koyi](https://www.frontendmentor.io/profile/nick-koyi)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
